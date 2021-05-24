@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RegistroDeNotas
+comment1.params=nroEst\ nroNotas
+comment1.target=RegistroDeNotas(int,\ int)
+comment2.params=name
+comment2.target=void\ addEstudiante(java.lang.String)
+comment3.params=nroList\ puntaje
+comment3.target=void\ addNotas(int,\ int)
+comment4.params=
+comment4.target=void\ promNotas()
+comment5.params=
+comment5.target=void\ prom51()
+comment6.params=
+comment6.target=int\ cantApr()
+comment7.params=
+comment7.target=int\ cantRepr()
+comment8.params=
+comment8.target=Estudiante\ notaAlta()
+numComments=9

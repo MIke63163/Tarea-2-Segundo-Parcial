@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment1.params=nombre\ nota\ nroList
+comment1.target=Estudiante(java.lang.String,\ int,\ int)
+comment2.params=n
+comment2.target=void\ addNota(int)
+comment3.params=i
+comment3.target=int\ getNota(int)
+comment4.params=
+comment4.target=void\ prom()
+comment5.params=
+comment5.target=double\ getNotaProm()
+comment6.params=
+comment6.target=void\ setnotaprom()
+numComments=7
